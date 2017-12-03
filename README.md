@@ -11,4 +11,5 @@ Contains propfans, turbofans, two VTOL engines, plasma pulse jet engines with tu
 
 ## Warning
 * Parts are subject to change names or be deleted and will break craft files.
-* Nuclear reactors not fully tested without Near Future Electric installed.
+* Nuclear reactors not fully tested/configured without Near Future Electric installed. (They currently have insane requirements of 2 MW)
+* Part costs TBD.
