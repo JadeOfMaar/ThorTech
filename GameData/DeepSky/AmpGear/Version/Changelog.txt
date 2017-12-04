@@ -1,3 +1,10 @@
+0.7
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Fixed all tech tree nodes, costs and entry costs
+* Added ram air turbine parts
+* Fixed descriptions
+* Added spice detection/integration
+
 0.5
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 Initial Release.
