@@ -1,3 +1,9 @@
+0.8
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Renamed mod, adjusted all names and paths
+* Adjusted cockpit stats
+* Fixed all engines FX
+
 0.7
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Fixed all tech tree nodes, costs and entry costs
