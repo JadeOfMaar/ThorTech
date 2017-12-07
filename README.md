@@ -1,7 +1,7 @@
-# AmpGear
-Old-school and sci-fi electric engines and some complementary parts. This is (or contains) the revival of another mod, **Electrical Engines** and provides spaceplane systems that have new use cases in KSP.
+# ThorTech
+Turn your spaceplane into a chariot of the Norse gods. Contains old-school and sci-fi electric engines and some complementary parts specialized for easy but high-wattage operation in any atmosphere, and with reduced need for liquid tankage. This mod revives and expands another mod, **Electrical Engines**, with thanks to its original author.
 
-Contains propfans, turbofans, two VTOL engines, plasma pulse jet engines with turbo, reactors, a radiator, and a hybrid plasma aerospike.
+Contains propfans, turbofans, two VTOL engines, plasma pulse jet engines with turbo, reactors, a radiator, a hybrid plasma aerospike, inline windmill turbines, and battery stacks (cylinder and Mk2).
 
 **Licenced CC-BY-NC-SA 4.0.** This mod intends to be entirely built on others with this same license or MIT license.
 
@@ -10,5 +10,4 @@ Contains propfans, turbofans, two VTOL engines, plasma pulse jet engines with tu
 * Firespitter
 
 ## Warning
-* Parts are subject to change names or be deleted and will break craft files.
 * Nuclear reactors not fully tested/configured without Near Future Electric installed. (They currently have insane requirements of 2 MW)
