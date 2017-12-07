@@ -3,6 +3,8 @@
 * Renamed mod, adjusted all names and paths
 * Adjusted cockpit stats
 * Fixed all engines FX
+* Added some air harvester modules and mod detection
+* Updated descriptions and StoredCharge amounts
 
 0.7
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
