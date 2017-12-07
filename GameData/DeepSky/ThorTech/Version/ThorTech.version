@@ -1,0 +1,37 @@
+{
+	"NAME":"ThorTech",
+	"DOWNLOAD":"https://github.com/JadeOfMaar/ThorTech/releases",
+	"URL":"https://github.com/JadeOfMaar/ThorTech/tree/master/GameData/DeepSky/ThorTech/Version/ThorTech.version",
+	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/ThorTech/tree/master/GameData/DeepSky/ThorTech/Version/Changelog.txt",
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/JadeOfMaar/ThorTech",
+		"ALLOW_PRE_RELEASE":true,
+	},
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":7,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":0
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":0
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":9
+	}
+}
