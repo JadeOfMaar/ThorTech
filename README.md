@@ -9,3 +9,4 @@ Turn your spaceplane into a chariot of the Norse gods. Contains old-school and s
 
 ## Warning
 * Nuclear reactors not fully tested/configured without Near Future Electric installed. (They currently have insane requirements of 2 MW)
+* Cockpits are very WIP. They're missing transparent glass from IVA view, most internals, seats, and working hatches.
