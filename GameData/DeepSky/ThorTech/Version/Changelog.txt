@@ -1,3 +1,15 @@
+0.8.5
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* added 1.25m hybrid plasma aerospike
+* grouped aerospikes into own folder
+* placed common atmosphere harvester parts behind a part upgrade lock
+* retuned 3m vtol engine
+* fixed error in 3m vtol intake
+* fixed scale on propfan engines
+* updated engine sounds
+* added Burst Mode upgrade
+* retuned Burst Mode storage and consumption
+
 0.8
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Renamed mod, adjusted all names and paths
