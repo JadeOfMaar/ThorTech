@@ -1,5 +1,8 @@
-0.8.5.1
+0.8.6.0
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+Makes early-game planes easier to progress to and more complete, sooner.
+Breaks existing craft.
+
 * Removed radiator requirement from reactors if NFE not installed
 * Removed Elite Dangerous sounds
 * Adjusted Burst Mode
@@ -8,22 +11,15 @@
   * Can now run indefinitely as long as chargers and reactors can keep up
 * Adjusted engine particles
 * Fixed 3m engine Tweakscale
+* Harvester intakes now have oceanic Water filter and are compatible with life support mods and Karborundum
 * Reorganized files and folders
 * Added: 
-  * Mk2 reactor (WIP)
   * 1.25m VTOL intake + engine
   * 0.625m inline windmill
   * 2.5m Razor engine
   * Surface-attached Burst Mode Charger
   * IntakeAtm to all intakes
 
-To-do:
-* Fix turbofan sounds
-* Finish Mk2 reactor
-* Retune engines for better usability on Eve
-  * Surface-attaching charger
-* Retexture: Mk2 reactor, battery stacks, charger
-* Add propellant tanks with resource switching: EC, Xenon, Argon, IntakeAtm
 
 0.8.5
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
