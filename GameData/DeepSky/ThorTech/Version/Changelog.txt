@@ -1,4 +1,9 @@
-0.8.6.0
+0.8.6.1 * 2018-01-08
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Fixed missing FX and sounds in aerospike engines
+
+
+0.8.6.0 * 2018-01-04
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 Makes early-game planes easier to progress to and more complete, sooner.
 Breaks existing craft.
