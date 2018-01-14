@@ -1,3 +1,10 @@
+0.8.6.2 * 2018-01-14
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Added Mk2 reactor
+* Adjusted colors on Voyager Mk2 aerospike
+* Adjusted radiator stats on parts
+
+
 0.8.6.1 * 2018-01-08
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Fixed missing FX and sounds in aerospike engines
