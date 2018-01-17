@@ -3,6 +3,7 @@
 * Added Mk2 reactor
 * Adjusted colors on Voyager Mk2 aerospike
 * Adjusted radiator stats on parts
+* Fixed missing FX and sounds in other engines
 
 
 0.8.6.1 * 2018-01-08
@@ -43,7 +44,8 @@ Breaks existing craft.
 * fixed scale on propfan engines
 * updated engine sounds
 * added Burst Mode upgrade
-* retuned Burst Mode storage and consumption
+* re-tuned Burst Mode storage and consumption
+
 
 0.8
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
@@ -52,6 +54,7 @@ Breaks existing craft.
 * Fixed all engines FX
 * Added some air harvester modules and mod detection
 * Updated descriptions and StoredCharge amounts
+
 
 0.7
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
