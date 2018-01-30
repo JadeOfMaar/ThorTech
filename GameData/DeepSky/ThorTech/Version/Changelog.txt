@@ -1,9 +1,15 @@
-0.8.6.2 * 2018-01-14
+0.9.0 * 2018-01-30
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Added Mk2 reactor
 * Adjusted colors on Voyager Mk2 aerospike
 * Adjusted radiator stats on parts
 * Fixed missing FX and sounds in other engines
+* Added Shieldnir: Electromagnetic heatshield noses for ascending craft
+  * 1.25m, 2.5m, Mk2 
+  * MagneticCharge resource
+* Minor tweaks to most engines and to RCS
+* Changed all "MetaLOX" references to "SupraLOX"
+
 
 
 0.8.6.1 * 2018-01-08
