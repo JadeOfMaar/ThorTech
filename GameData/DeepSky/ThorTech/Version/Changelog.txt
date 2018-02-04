@@ -6,7 +6,8 @@
 * Fixed missing FX and sounds in other engines
 * Added Shieldnir: Electromagnetic heatshield noses for ascending craft
   * 1.25m, 2.5m, Mk2 
-  * MagneticCharge resource
+  * _Shieldnir resource
+  * Upgrades for extending Shieldnir to strategic parts
 * Minor tweaks to most engines and to RCS
 * Changed all "MetaLOX" references to "SupraLOX"
 
@@ -15,6 +16,7 @@
 0.8.6.1 * 2018-01-08
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Fixed missing FX and sounds in aerospike engines
+
 
 
 0.8.6.0 * 2018-01-04
