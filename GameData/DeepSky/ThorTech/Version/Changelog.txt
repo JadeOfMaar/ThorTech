@@ -10,6 +10,7 @@
   * Upgrades for extending Shieldnir to strategic parts
 * Minor tweaks to most engines and to RCS
 * Changed all "MetaLOX" references to "SupraLOX"
+* Filled in Tweakscale options
 
 
 
