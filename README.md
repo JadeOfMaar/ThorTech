@@ -4,9 +4,9 @@ Turn your spaceplane into a chariot of the Norse gods. Contains old-school and s
 **Licenced CC-BY-NC-SA 4.0.** This mod intends to be entirely built on others with this same license or MIT license.
 
 ## Dependencies
+* B9 Part Switch
 * Community Resource Pack
 * Firespitter
 
 ## Warning
-* Nuclear reactors not fully tested/configured without Near Future Electric installed. (They currently have insane requirements of 2 MW)
 * Cockpits are very WIP. They're missing transparent glass from IVA view, most internals, seats, and working hatches.
