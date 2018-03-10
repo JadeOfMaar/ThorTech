@@ -1,0 +1,66 @@
+@PART[dstt_?INR]
+{
+	@RESOURCE[EnrichedUranium]
+	{
+		@name = NuclearFuel
+	}
+	@RESOURCE[DepletedFuel]
+	{
+		@name = NuclearWaste
+	}
+	MODULE
+	{
+		name = WBIPowerMonitor
+	}
+}
+
+@PART[dstt_SINR]
+{
+	@MODULE[ModuleResourceConverter]
+	{
+		@INPUT_RESOURCE
+		{
+			@ResourceName = NuclearFuel
+			@Ratio = 0.0000024
+		}
+		@OUTPUT_RESOURCE
+		{
+			@ResourceName = NuclearWaste
+			@Ratio = 0.00000216
+		}
+	}
+}
+
+@PART[dstt_WINR]
+{
+	@MODULE[ModuleResourceConverter]
+	{
+		@INPUT_RESOURCE
+		{
+			@ResourceName = NuclearFuel
+			@Ratio = 0.000004
+		}
+		@OUTPUT_RESOURCE
+		{
+			@ResourceName = NuclearWaste
+			@Ratio = 0.0000036
+		}
+	}
+}
+
+@PART[dstt_MINR]
+{
+	@MODULE[ModuleResourceConverter]
+	{
+		@INPUT_RESOURCE
+		{
+			@ResourceName = NuclearFuel
+			@Ratio = 0.0000072
+		}
+		@OUTPUT_RESOURCE
+		{
+			@ResourceName = NuclearWaste
+			@Ratio = 0.00000648
+		}
+	}
+}

@@ -1,0 +1,98 @@
+// Thor Tech
+// RCS
+@PART[dstt_RCS*]
+{
+	@MODULE[ModuleRCSFX]
+	{
+		@resourceName = Atmosphere
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}
+// Intakes
+@PART[dstt_vtolintake*]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAtm]]
+	{
+		@resourceName = Atmosphere
+	}
+	@RESOURCE[IntakeAtm]
+	{
+		@name = Atmosphere
+	}
+}
+// Engines
+@PART[dstt_turbofan*]:HAS[@MODULE[ModuleEnginesFX]]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAtm]]
+	{
+		@resourceName = Atmosphere
+	}
+	@RESOURCE[IntakeAtm]
+	{
+		@name = Atmosphere
+	}
+	@MODULE[ModuleEnginesFX],*
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}
+@PART[dstt_propfan*]:HAS[@MODULE[ModuleEnginesFX]]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAtm]]
+	{
+		@resourceName = Atmosphere
+	}
+	@RESOURCE[IntakeAtm]
+	{
+		@name = Atmosphere
+	}
+	@MODULE[ModuleEnginesFX],*
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}
+@PART[dstt_razor*]:HAS[@MODULE[ModuleEnginesFX]]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAtm]]
+	{
+		@resourceName = Atmosphere
+	}
+	@RESOURCE[IntakeAtm]
+	{
+		@name = Atmosphere
+	}
+	@MODULE[ModuleEnginesFX],*
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}
+@PART[dstt_vtolfan*]:HAS[@MODULE[ModuleEnginesFX]]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAtm]]
+	{
+		@resourceName = Atmosphere
+	}
+	@RESOURCE[IntakeAtm]
+	{
+		@name = Atmosphere
+	}
+	@MODULE[ModuleEnginesFX],*
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}
