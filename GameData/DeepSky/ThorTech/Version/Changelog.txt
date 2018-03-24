@@ -6,6 +6,7 @@
 * Minor tweak to reactors
 * Renamed RCS ports
 * Removed FS dependency on engines: however, blades no longer spin, thrust reversal is lost
+* Mk2 Ram Air Turbine surface attaches now.
 
 
 0.9.0 * 2018-02-18
