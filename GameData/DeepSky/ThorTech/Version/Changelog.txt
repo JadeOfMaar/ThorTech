@@ -1,11 +1,13 @@
 0.9.1 * 2018-03-00
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Polished off WBI Play Modes
 * Added conditional intake to Razor VTOL engines
 * Adjusted tech tree position of Razor VTOL engines
-* Polished off WBI Play Modes
 * Minor tweak to reactors
 * Renamed RCS ports
-* Removed FS dependency on engines: however, blades no longer spin, thrust reversal is lost
+* Updated engines: 
+  * Removed FS dependency, however, blades no longer spin, thrust reversal is lost
+  * Added and adjusted sounds and particles
 * Mk2 Ram Air Turbine surface attaches now.
 
 
