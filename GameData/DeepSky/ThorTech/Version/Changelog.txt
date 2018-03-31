@@ -3,12 +3,14 @@
 * Polished off WBI Play Modes
 * Added conditional intake to Razor VTOL engines
 * Adjusted tech tree position of Razor VTOL engines
+* Limited usable top speed on windmills
 * Minor tweak to reactors
 * Renamed RCS ports
 * Updated engines: 
   * Removed FS dependency, however, blades no longer spin, thrust reversal is lost
   * Added and adjusted sounds and particles
-* Mk2 Ram Air Turbine surface attaches now.
+* Mk2 Ram Air Turbine surface attaches now
+* Uses KerbalActuators in place of FS for prop animation
 
 
 0.9.0 * 2018-02-18
