@@ -11,6 +11,7 @@
   * Added and adjusted sounds and particles
 * Mk2 Ram Air Turbine surface attaches now
 * Uses KerbalActuators in place of FS for prop animation
+* Found missing parameter (checkForOxygen) that crippled some intakes
 
 
 0.9.0 * 2018-02-18
