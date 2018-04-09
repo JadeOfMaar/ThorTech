@@ -1,17 +1,21 @@
-0.9.1 * 2018-03-00
+0.9.5 * 2018-04-09
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Polished off WBI Play Modes
 * Added conditional intake to Razor VTOL engines
-* Adjusted tech tree position of Razor VTOL engines
-* Limited usable top speed on windmills
+* Adjusted tech tree position of Razor and Ascendant VTOL engines
 * Minor tweak to reactors
 * Renamed RCS ports
 * Updated engines: 
-  * Removed FS dependency, however, blades no longer spin, thrust reversal is lost
+  * Replaced FS dependency with KerbalActuators. Fan spinning functionality has been maintained but will show weird behavior once any fan engine is shut off
   * Added and adjusted sounds and particles
 * Mk2 Ram Air Turbine surface attaches now
-* Uses KerbalActuators in place of FS for prop animation
-* Found missing parameter (checkForOxygen) that crippled some intakes
+* Caught many missing Tweakscale options
+* Changes Isp of stock Vector engine to be more like a real aerospike
+* Expanded Shieldnir capacity:
+  * Holds more shield energy
+  * Charges faster at greater costs
+  * Protects many more parts
+  * Added thermoelectric converter
 
 
 0.9.0 * 2018-02-18
