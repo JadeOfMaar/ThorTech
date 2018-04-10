@@ -6,7 +6,7 @@ Turn your spaceplane into a chariot of the Norse gods. Contains old-school and s
 ## Dependencies
 * B9 Part Switch
 * Community Resource Pack
-* Firespitter
+* Kerbal Actuators
 
 ## Warning
 * Cockpits are very WIP. They're missing transparent glass from IVA view, most internals, seats, and working hatches.
