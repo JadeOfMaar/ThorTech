@@ -15,7 +15,7 @@
   * Holds more shield energy
   * Charges faster at greater costs
   * Protects many more parts
-  * Added thermoelectric converter
+  * With thermoelectric converter; applies only to Shieldnir parts, not the parts they protect
 
 
 0.9.0 * 2018-02-18
