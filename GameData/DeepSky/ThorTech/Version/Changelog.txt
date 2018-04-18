@@ -2,6 +2,7 @@
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Found missing checkForOxygen parameter in RATs
 * buffed shieldnir effect to some categories of parts
+* Added WBI part tips!
 
 
 0.9.5 * 2018-04-09
