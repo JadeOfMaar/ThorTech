@@ -1,8 +1,10 @@
 0.9.6 * 
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Found missing checkForOxygen parameter in RATs
-* buffed shieldnir effect to some categories of parts
+* Buffed Shieldnir effect to some categories of parts
 * Added WBI part tips!
+* Made Kemonade Turbofans lighter
+* Added enhanced radiator; ablates supported resources for superior performance but does not use EC
 
 
 0.9.5 * 2018-04-09

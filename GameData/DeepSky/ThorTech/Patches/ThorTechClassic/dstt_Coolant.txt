@@ -1,0 +1,22 @@
+@PART[dstt_radialheatexc2]
+{
+	@MODULE[ModuleResourceConverter],0
+	{
+		@INPUT_RESOURCE[Water]
+		{
+			@Ratio = 0.2
+		}
+	}
+	+MODULE[ModuleResourceConverter],0
+	{
+		@ConverterName = Deploy Coolant
+		@StartActionName = Start Deploy Coolant
+		@StopActionName = Stop Deploy Coolant
+		@ToggleActionName = Toggle Deploy Coolant
+		@INPUT_RESOURCE
+		{
+			@ResourceName = Coolant
+			@Ratio = 0.37
+		}
+	}
+}
