@@ -5,6 +5,8 @@
 * Added WBI part tips!
 * Made Kemonade Turbofans lighter
 * Added enhanced radiator; ablates supported resources for superior performance but does not use EC
+* Reduced heat production in 2.5m Razor
+* Moved radiators and Shieldnir to heat management row in CTT
 
 
 0.9.5 * 2018-04-09
