@@ -4,6 +4,7 @@
 * Buffed Shieldnir effect to some categories of parts
 * Added WBI part tips!
 * Made Kemonade Turbofans lighter
+* Fixed a hole in Shieldnir patch (many fuel tank parts still use category "Propulsion")
 * Added enhanced radiator; ablates supported resources for superior performance but does not use EC
 * Reduced heat production in 2.5m Razor
 * Moved radiators and Shieldnir to heat management row in CTT
