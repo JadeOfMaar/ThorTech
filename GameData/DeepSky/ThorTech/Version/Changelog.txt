@@ -1,4 +1,4 @@
-0.9.6 * 
+0.9.6 * 2018-05-07
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Found missing checkForOxygen parameter in RATs
 * Buffed Shieldnir effect to some categories of parts
@@ -8,6 +8,7 @@
 * Reduced heat production in 2.5m Razor
 * Moved radiators and Shieldnir to heat management row in CTT
 * Added Mk2 engine (RAPIER equivalent) with greater performance in thin atmo, lesser performance in thick atmo
+  * Updated engine texture
 
 
 0.9.5 * 2018-04-09
