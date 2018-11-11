@@ -1,9 +1,10 @@
 0.9.6.4 * 2018-11-10
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Shieldnir for any airbrakes. Once you have an active shieldnir cone on ship, they'll survive Eve reentry along with the rest of the ship.
-* Allow any 1.25m engine to upscale to 2.5m, not just 1.875m (high demand for plasma aerospike)
-* Argo Mk2 Warpjet will hold some IntakeAtm due to WarpJet nature
-* RCS now available in Air, LFO, MonoPropellant
+* Allow any 1.25m engine to upscale to 2.5m, not just 1.875m (high demand for plasma aerospike).
+* Argo Mk2 Warpjet will hold some IntakeAtm due to WarpJet nature.
+* RCS now available in Air, LFO, MonoPropellant.
+* no longer shipping MiniAVC.
 
 
 0.9.6.3 * 2018-07-09
