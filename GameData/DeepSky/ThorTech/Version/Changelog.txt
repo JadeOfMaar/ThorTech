@@ -1,3 +1,10 @@
+0.9.6.6 * 2019-01-25
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Fixed missing bulkhead profiles.
+* Missing Tweakscale for new RCS ports.
+* Added in-game declarations for compatibility with WBI Play Mode.
+
+
 0.9.6.5 * 2019-01-02
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Version bump for CKAN.
