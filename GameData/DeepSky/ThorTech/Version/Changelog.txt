@@ -3,6 +3,8 @@
 * BurstPower charger upgrade CTT support
 * Re-did RCS thruster configs
 * Restock detection in RAPIER patch
+* VTOL engines now work with WBI Hover Control
+
 
 0.9.6.6 * 2019-01-25
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
