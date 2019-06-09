@@ -1,3 +1,9 @@
+0.9.6.7 * 2019-06-09
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* BurstPower charger upgrade CTT support
+* Re-did RCS thruster configs
+* Restock detection in RAPIER patch
+
 0.9.6.6 * 2019-01-25
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Fixed missing bulkhead profiles.
