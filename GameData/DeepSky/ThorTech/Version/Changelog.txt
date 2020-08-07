@@ -1,3 +1,11 @@
+0.9.6.8
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Fixed model path issue with Shieldnir cones.
+* Fixed patch (did not add Shieldnir ablator to airbrakes).
+* Moved Restock whitelist in from DSCore.
+* Updated Shieldnir patch to not conflict with OPT thermal limit upgrades.
+
+
 0.9.6.7 * 2019-06-09
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * BurstPower charger upgrade CTT support
